@@ -1,0 +1,30 @@
+# Modèles PyTorch
+*.pt
+runs/
+
+# Vidéos
+*.mp4
+*.avi
+*.mov
+
+# Dataset & frames
+shahed_dataset/
+frames_dessous/
+
+# Config & logs
+drone_detector_config.json
+drone_detector.log
+tempCodeRunnerFile.py
+
+# Sorties générées
+*_detected.mp4
+*_report.pdf
+*_charts.png
+*_geomap.png
+*_trajectory.kml
+*_trajectory.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
