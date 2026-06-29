@@ -16,8 +16,8 @@
 
 from roboflow import Roboflow
 
-# ⚠️  REMPLACE ICI PAR TA CLÉ PRIVÉE — ne jamais partager ce fichier
-API_KEY = "9Fb5sJJ1dJCE9a3fvt28"
+# ⚠️  — ne jamais partager ce fichier
+API_KEY = "YOUR_API_KEY_HERE"
 
 print("Connexion à Roboflow...")
 rf = Roboflow(api_key=API_KEY)
