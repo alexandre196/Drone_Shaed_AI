@@ -164,7 +164,7 @@ python download_shahed_dataset.py
 
 ## 📄 Licence
 
-MIT License — © 2026 Alexandre Martin (alexandre196)
+GPL-3.0 License — © 2026 Alexandre Martin (alexandre196)
 
 ---
 
